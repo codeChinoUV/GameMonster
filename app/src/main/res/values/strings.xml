@@ -5,4 +5,8 @@
     <string name="mounstro">Mounstro</string>
     <string name="porcentaje_completo">100%</string>
     <string name="alerta_nombre">¡Debe de ingresar un nombre!</string>
+    <string name="atacar">Atacar</string>
+    <string name="curar">Curar</string>
+    <string name="rendirser">Rendirser</string>
+    <string name="ir_a_pantalla_principal">Ir a pantalla principal</string>
 </resources>
