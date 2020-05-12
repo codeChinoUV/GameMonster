@@ -35,6 +35,16 @@
         android:layout_marginHorizontal="10dp"
         />
 
+    <TextView
+        android:id="@+id/tvAlertaNombre"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/alerta_nombre"
+        android:textColor="@android:color/holo_red_dark"
+        android:textAlignment="center"
+        android:visibility="gone"
+        />
+
     <Button
         style="@android:style/Widget.Material.Button.Small"
         android:layout_width="wrap_content"
@@ -45,6 +55,7 @@
         android:textColor="@android:color/white"
         android:text="@string/iniciar_juego"
         android:textSize="20sp"
+        android:onClick="clickBtnComenzarJuego"
         />
 
 

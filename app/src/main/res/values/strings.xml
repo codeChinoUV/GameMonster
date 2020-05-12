@@ -4,4 +4,5 @@
     <string name="iniciar_juego">Comenzar partida</string>
     <string name="mounstro">Mounstro</string>
     <string name="porcentaje_completo">100%</string>
+    <string name="alerta_nombre">¡Debe de ingresar un nombre!</string>
 </resources>
