@@ -1,3 +1,5 @@
 <resources>
-    <string name="app_name">GameMonster</string>
+    <string name="app_name">Game Monster</string>
+    <string name="solicitar_nombre">¿Como te llamas?</string>
+    <string name="iniciar_juego">Comenzar partida</string>
 </resources>
