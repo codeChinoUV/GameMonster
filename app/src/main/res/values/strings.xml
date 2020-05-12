@@ -2,4 +2,6 @@
     <string name="app_name">Game Monster</string>
     <string name="solicitar_nombre">¿Como te llamas?</string>
     <string name="iniciar_juego">Comenzar partida</string>
+    <string name="mounstro">Mounstro</string>
+    <string name="porcentaje_completo">100%</string>
 </resources>
